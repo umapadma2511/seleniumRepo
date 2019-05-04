@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Free CRM test Automation project" duration-ms="14297" started-at="2019-05-02T15:40:44Z" finished-at="2019-05-02T15:40:58Z">
+    <groups>
+    </groups>
+    <test name="Free CRM test" duration-ms="14297" started-at="2019-05-02T15:40:44Z" finished-at="2019-05-02T15:40:58Z">
+      <class name="com.crm.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@40ef3420]" name="setup" is-config="true" duration-ms="8076" started-at="2019-05-02T15:40:44Z" finished-at="2019-05-02T15:40:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@40ef3420]" name="loginTest" duration-ms="5490" started-at="2019-05-02T15:40:52Z" finished-at="2019-05-02T15:40:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginPageTest@40ef3420]" name="tearDown" is-config="true" duration-ms="700" started-at="2019-05-02T15:40:57Z" finished-at="2019-05-02T15:40:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.LoginPageTest -->
+    </test> <!-- Free CRM test -->
+  </suite> <!-- Free CRM test Automation project -->
+</testng-results>
